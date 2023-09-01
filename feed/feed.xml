@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>Amy Lam</title>
+	<subtitle>Amy Lam&#39;s personal website</subtitle>
+	<link href="https://www.amyrlam.com/eleventy-base-blog/feed/feed.xml" rel="self"/>
+	<link href="https://www.amyrlam.com/eleventy-base-blog/"/>
+	<updated>2023-09-01T03:38:05Z</updated>
+	<id>https://www.amyrlam.com/</id>
+	<author>
+		<name>Amy Lam</name>
+		<email>hello@amyrlam.com</email>
+	</author>
+</feed>
