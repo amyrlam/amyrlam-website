@@ -273,3 +273,7 @@ h2 + .header-anchor {
 .fit-picture {
   max-width: 100%;
 }
+
+.social-icons {
+	padding-right: 4px
+}
